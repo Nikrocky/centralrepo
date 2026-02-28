@@ -1,0 +1,23 @@
+/* This is an external stylesheet file (e.g., styles.css) */
+
+body {
+  background-color: lightblue; /* Sets the background color of the entire page */
+  font-family: Verdana, sans-serif; /* Defines the default font with fallbacks */
+  margin: 0 auto; /* Centers the body content within the browser window */
+  width: 80%; /* Sets the width of the main content area */
+  padding: 20px; /* Adds space between the content and the border */
+}
+
+h1 {
+  color: white; /* Changes the text color for H1 headings */
+  text-align: center; /* Centers the H1 text horizontally */
+  text-shadow: 2px 2px 1px black; /* Adds a shadow effect to the text */
+}
+
+p {
+  font-size: 16px; /* Sets the font size for paragraphs */
+  border: 2px solid navy; /* Adds a solid navy border around paragraphs */
+  padding: 10px; /* Adds space inside the border */
+  margin-bottom: 15px; /* Adds space outside the bottom of the border */
+}
+
