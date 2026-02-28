@@ -4,4 +4,5 @@ public class HelloWorld {
     }
 }
 
-a=20
+
+a=15
