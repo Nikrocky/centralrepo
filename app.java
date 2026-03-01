@@ -4,3 +4,5 @@ public class HelloWorld {
     }
 }
 # Hey this a sample referenace line#
+
+#if developer push the code in centralrepo that should automaticvally build the code#
