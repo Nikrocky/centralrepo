@@ -3,10 +3,4 @@ public class HelloWorld {
         System.out.println("Hello, World!");
     }
 }
-
-
-a=15
-
-Hello this is for testing purpose
-
-we enabled the webhook  lets check the automate trigger
+# Hey this a sample referenace line#
